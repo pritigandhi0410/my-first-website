@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+  padding: 40px 0;
+  background: #fff;
+  font-family: "Arvo", serif;
+  overflow: hidden;
+}
+.page_404 img {
+  width: 100%;
+}
+
+.four_zero_four_bg {
+  background-image: url(bg.gif);
+  height: 559px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.four_zero_four_bg h1 {
+  font-size: 100px;
+}
+
+.contant_box_404 h3 {
+  font-size: 40px;
+}
+
+.contant_box_404 p{
+    font-size: 19px;
+}
+
+.link_404 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #069e45;
+  margin: 20px 0;
+  display: inline-block;
+}
+
+.contant_box_404 {
+  margin-top: -100px;
+}
